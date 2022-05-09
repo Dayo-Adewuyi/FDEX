@@ -1,2 +1,0 @@
-# FDEX
-A decentralized exchange
